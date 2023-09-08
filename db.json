@@ -1,5 +1,5 @@
 {
-  "datosEmpleado":[
+  "datosEmpleado":
     {
       "nombre": "Jose Alonso",
       "ap_paterno": "Perez",
@@ -13,6 +13,9 @@
       "nacionalidad": "Mexicanada",
       "e_mail": "jperez1@mti.com",
       "telefono": "4447521213"
-    }
-  ]
+    },
+  "datosAdicionales":{
+    "puesto":"jefe"
+  }
+  
 }
