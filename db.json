@@ -68,8 +68,28 @@
       "no_int": "8",
       "pais": "Mexico"
   },
-  "familiares":[
-    
+  "familiares":
+  [
+    {
+      "_id": "1",
+      "tipo": "Madre",
+      "nombre": "Leticia Juarez",
+      "dependiente": false,
+      "fecha_nacimiento": "07/12/1975",
+      "genero": "Mujer",
+      "nivel_estudios": "Profesional",
+      "descripcion": "Madre de empleado."
+    },
+    {
+      "_id": "2",
+      "tipo": "Esposa",
+      "nombre": "Sarahi Zamora",
+      "dependiente": true,
+      "fecha_nacimiento": "07/12/1993",
+      "genero": "Mujer",
+      "nivel_estudios": "Profesional",
+      "descripcion": "Esposa de empleado."
+    }
   ]
 
 }
