@@ -27,27 +27,7 @@
       "extension": "20853",
       "telefono_emergencia": "4441253234"
    },
-  "datosContrato":
-    {
-      "fecha_ingreso": "01/01/2022",
-      "primer_ingreso": "01/01/2022",
-      "tipo_contrato": "tiempo_determinado"
-    },
-  "seguridadSocial":
-    {
-      "infonavit": true,
-      "no_registroPat": "321055",
-      "tipo_salario": "Minimo",
-      "no_seguro_social": "33254636",
-      "umf": "IMSS No. 3 B. Juarez."
-    },
-  "OtrosDatos":
-    {
-      "control_acceso": true,
-      "no_afore": "2354863",
-      "no_fonacot": "789560001",
-      "observaciones": "Checar accesos"
-    },
+ 
   "datosBancarios":
     {
       "banco": "BANORTE",
