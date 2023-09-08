@@ -14,8 +14,62 @@
       "e_mail": "jperez1@mti.com",
       "telefono": "4447521213"
     },
-  "datosAdicionales":{
-    "puesto":"jefe"
-  }
-  
+  "datosAdicionales":
+  {
+      "pais_origen": "Mexico",
+      "estado_origen": "Zacatecas",
+      "municipio_origen": "Guadalupe",
+      "nivel_estudios": "Profesional",
+      "carrera": "Licenciatura Psicologia",
+      "tipo_sangre": "B+",
+      "contacto_emergencia": "Jose Perez Alfonso",
+      "esMadre": false,
+      "extension": "20853",
+      "telefono_emergencia": "4441253234"
+   },
+  "datosContrato":
+    {
+      "fecha_ingreso": "01/01/2022",
+      "primer_ingreso": "01/01/2022",
+      "tipo_contrato": "tiempo_determinado"
+    },
+  "seguridadSocial":
+    {
+      "infonavit": true,
+      "no_registroPat": "321055",
+      "tipo_salario": "Minimo",
+      "no_seguro_social": "33254636",
+      "umf": "IMSS No. 3 B. Juarez."
+    },
+  "OtrosDatos":
+    {
+      "control_acceso": true,
+      "no_afore": "2354863",
+      "no_fonacot": "789560001",
+      "observaciones": "Checar accesos"
+    },
+  "datosBancarios":
+    {
+      "banco": "BANORTE",
+      "clabe": "010095485254526456",
+      "localidad_pago": "MX",
+      "no_cuenta": "485254526456",
+      "no_tarjeta": "4152332562548899",
+      "tipo_pago": "DEPOSITO",
+      "no_tarjeta_ant": "4152332562548898"
+    },
+    "datosDomicilio":
+    {
+      "calle": "B. Juarez",
+      "colonia": "Las Quintas",
+      "cp": "99145",
+      "estado": "Zacatecas",
+      "municipio": "Guadalupe",
+      "no_int": "8",
+      "pais": "Mexico"
+  },
+  "familiares":[
+    
+  ]
+
 }
