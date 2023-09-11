@@ -1,6 +1,7 @@
 {
   "datosEmpleado":
     {
+      "_id":"1",
       "nombre": "Jose Alonso",
       "ap_paterno": "Perez",
       "ap_materno": "Juarez",
